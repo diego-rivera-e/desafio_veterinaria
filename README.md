@@ -8,5 +8,8 @@ especificando qué función se desea ejecutar.
 Bajo la siguiente estructura:
 
 
+![Captura de Pantalla 2023-05-25 a la(s) 21 13 25](https://github.com/diego-rivera-e/desafio_veterinaria/assets/112424139/355c0b40-d419-42ab-99d0-1c858e7632cf)
+
+
 
 ![Captura de Pantalla 2023-05-25 a la(s) 21 13 25](https://github.com/diego-rivera-e/desafio_veterinaria/assets/112424139/b09dfe28-03bd-4827-88da-01003f62a3d1)
